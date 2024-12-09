@@ -12,3 +12,5 @@
 
  - CSS Link external style sheet - https://www.w3schools.com/css/css_howto.asp
  
+ - Index, put Brands and Balls in Table
+ 
